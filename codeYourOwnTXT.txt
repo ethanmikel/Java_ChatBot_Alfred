@@ -1,0 +1,37 @@
+33
+Apple iPhone_12
+Apple Apple_Watch_SE
+Google Pixelbook_Go
+Apple HomePod_Mini
+Google Pixel_Buds
+Sony Playstation_5
+Huawei Mate_40_Pro
+Huawei P40_Pro
+Sony Xperia_Pro
+Samsung Galaxy_Buds+
+Huawei FreeBuds_Pro
+Microsoft Surface_Laptop_Go
+Google Chromecast
+Apple iMac_Pro
+Microsoft Surface_Pro_X
+Google Pixel_5
+Samsung Galaxy_Z_Fold2
+Huawei MatePad_Pro
+Huawei Watch_GT_2_Pro
+Apple Watch_Series_6
+Apple MacBook_Pro
+Google Nest_Audio
+Huawei MateBook_13
+Microsoft Surfsce_Pro_7
+Apple Apple_TV_4K
+Samsung Galaxy_Note20
+Samsung Galaxy_Watch3
+Apple AirPods_Pro
+Microsoft Xbox_Series_X
+Microsoft Xbox_Series_S
+Google Nest_Theromostat
+Samsung Galaxy_Tab_S
+Google Nest_Hub_Max
+
+
+
